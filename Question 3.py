@@ -32,10 +32,10 @@ city_pop = {1 : 86,
             6 : 86,
             7 : 34,
             8 : 18,
-            9 : 111, #Assuming Yiğit is Effective in this region
+            9 : 111, 
             10: 127,
             11: 41,
-            12: 0}
+            12: 0 #Assuming Yiğit is Effective in this region}
 
 neighbors = {
     1: [2, 3],
